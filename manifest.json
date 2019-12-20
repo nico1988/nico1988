@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "nico1988's launcher",
+    "description": "quick launch nico1988",
+    "version": "1.0.1",
+    "icons": {
+        "128": "images/daydayup_128.png"
+    },
+    "browser_action": {
+        "default_icon": "images/daydayup.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
